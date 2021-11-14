@@ -1,0 +1,2 @@
+# SourceInsight_Macro
+SourceInsight中一系列用于实现自定义快捷方式的宏
